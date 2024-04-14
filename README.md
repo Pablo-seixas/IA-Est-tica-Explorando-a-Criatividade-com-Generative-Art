@@ -26,14 +26,7 @@ O repositório está estruturado da seguinte forma:
 - `main.py`: Script principal para execução do projeto.
 - `outros_arquivos.py`: Outros arquivos de suporte.
 
- Como Usar
-
-Para executar o projeto, siga estas etapas:
-
-1. Certifique-se de ter Python instalado no seu sistema.
-2. Clone este repositório para o seu computador local.
-3. Instale as dependências do projeto utilizando o arquivo `requirements.txt`.
-4. Execute os scripts Python conforme necessário.
+ 
 
  Contribuição
 
